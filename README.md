@@ -14,3 +14,6 @@ In the tird part we extracted the Data from the contacts.xlsx excel file. We had
 - A column named "email" that contains the email address of the contact person.
 We did it by using Pandas as the Option 1 and by using REGEX as the Option 2. 
 At the end of each option we exported the DataFrame as a CSV file. 
+
+### Bonus
+We also added the ERD document and schema file based on the tables we created.
